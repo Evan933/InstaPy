@@ -2,3 +2,5 @@ selenium
 clarifai
 pyvirtualdisplay
 emoji
+higgsfield-client
+python-dotenv
