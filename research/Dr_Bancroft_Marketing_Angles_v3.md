@@ -71,7 +71,7 @@ The ranking weighs:
 - **[offer] The maths:** at $11 a bar, if one bar lasts a month, that's about $11 a month. That's between the accepted and rejected ranges. **This angle only works if a bar is measured to last clearly longer than a month.**
 - **Hooks:**
   - "Still here on day seven."
-  - "The box shouldn't smell better than the soap." (VOC-2730)
+  - "The box shouldn't smell better than the soap." (adapted from VOC-2730)
   - "Cost per month, printed on the box."
 - **Visual:** a time-lapse of bar life on a draining dish; the bar weighed on day 1 and day 30; hands versus washcloth.
 - **Watch out for:**
